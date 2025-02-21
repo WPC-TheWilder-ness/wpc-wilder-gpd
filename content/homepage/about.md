@@ -1,7 +1,7 @@
 ---
 title: General Peace Dynamics
 draft: false
-avatar: images/GPDREPRESENTATION.png
+avatar: images/gpdrepre.png
 bio: '...a peace-based grand uni*fying* physical model of *any*thing.'
 
 weight: 1
@@ -28,21 +28,86 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-### COMMENCE RAVING RANTING SHOUTING MOTIONS, TO PENETRATE POSSIBLE ACTIVE FLOOD-EVENT OVERFLOWING MENTAL BASEMENT NOISEFLOOR:
+[[ DRAFT STATUS, COMPLETE AND UTTER BULLSHIT ]]
+
+
+
+### COMMENCE RAVING RANTING SHOUTING MOTIONS, TO PENETRATE POSSIBLE ACTIVE FLOOD-EVENTS OVERFLOWING MENTAL BASEMENT NOISEFLOORS:
+
+One of the problems I have noticed with the academic establishment, intellectual establishment, established thought leaders, else, is that they deal with the interested though misled or misguided class of individuals often known as 'quacks, pseudo, meta, conspirtacy theorist, undiscovered genius, etc'. The effect by their default treatment results in a sense of dismission, disregard, ignoring, or disingenuous humoring, is that this class ends up feeling disenfranchised, unheard, oppressed, castaway, etc. This is bad because:
+
+1. It drives unproductive models underground, and festering resentment tends to fuel the radicalization and replication of said models.
+2. It drives the productive models higher 'elevated' above ground, into towers that become fundamentally inaccessible to inquiring minds, especially young minds with an eagerness to contribute in any way whatsoever.
+
+The result is a general pathological form of social class polarization that lends toward extremization of various kinds on either pole, and the result is simply a mill churning out fanatics that by nature of that definition, will simply never admit to any potential superior win-win scenario. This is bad for (what I hereby assume) are obvious reasons that you can derive on your own by harsh self-scrutiny.
+
+I discovered by my market studies and covert social research (discovery science), that the root cause of all this seems to boil down to unsophisticated social notions of 'respect'. On one hand, the academic authority for example, sides on politeness and tolerance by default, and therefore assumes a stance of passive reactivity when dealing with challenge perspectives unwelcome to the establishment by tacit convention. But then time wears on, and energy runs out, and the tolerance switch flips to intolerance, and the misligned soul once tolerated with frienly dismissal, is suddenly intolerated with non-friendly exclusion. This at least, an attempt at capturing the gestalt of what I mean to get at here. The misaligned person in this consideration, from their perspective experiences the phenomenon as a personal attack (usually on their creative intellect, which our society values highest) and they seek solace elsewhere, naturally falling into whatever energy well is nearest and deepest, usually a community espousing fantatic polarized beliefs, happy to appeal to reeling natural urge to push back against said offending establishment with equal and opposite force. On both ends of the polarization spectrum however, these pushback events tend to take on harmonic resonant features that emerge as new and troubling phenomenological properties of both sides. Neither of course, tends to realize that it is not only happening to _them_, but is indeed happening to _both_.
+
+The solution in this case, is to dispense with politeness, and preempt by setting boundaries immediately. In general peace dynamics, the premise for success with this strategy is built into its model foundation: Nobody is right or wrong in this context. The only matter of intellectual concern is constructing a system that allows for coherence between worlds. The only matter of practical concern, is respecting what has been proven to work. The calculus for example, one may complain as just as inaccessible, but by my direct experience, this is simply a breakdown of modern pedagogy, not any fault of the calculus. And the only matter of Human concern, is respecting our need to be able to related to others and discuss common concerns and considerations. I can explain an integral in terms of a sum to pretty much anybody that knows what a sum is, and this matters. If I have some deeper yet esoteric explanation for the same concept, this is most probably useless, for not many other people will understand that intuitively.
+
+General peace dynamics in current form, is strictly inaccessible to those accustomed to traditional accessibilities. This is a fundamental problem for this enterprise to reckon with seriously, but again, measures like the following preemption are deliberately architected into foundational establishment so to counteract this and generate an emergent system
+ capable of gracefully overcoming the bootstrap startup costs and sacrifices to rigor.
+
+Thus, the preemptive measure in concise form, that which I must employ in presenting the general peace dynamics enterprise: I must shout at everybody as they walk through the door to maximize the chance that they actually hear what my expectations and boundaries are with regard to involvement.
 
 <details>
-  <summary style="color:magenta; font-size:150%"><b>I MIGHT BE SHOUTING AT YOU RIGHT NOW! SORRY... :/</b></summary>
-**THIS PRESENTATION IS UGLY, BUT WHATEVER. I REFUSE BY COMPLETE SEAT OF MY BEING HOWEVER, TO EVER RELENT TO ACCUSATION THAT I DO META-PHYSICS, OR PSEUDO-SCIENCE, AS THIS SERVES PROPER DEEPEST-INSULT TO MYSELF TO STOOP SO. GPD IS REAL PHYSICS, THIS IS REAL SCIENCE, AND YOU REALLY OUGHT TO TAKE IT SERIOUSLY, BECAUSE I BUILT THE DAMN THING AROUND GENERAL FAILURE TO RESPECT INSTITUTIONAL AND CULTURAL SHORTCOMINGS, AND ESPECIALLY BUILT AROUND THOSE SHORTCOMINGS THEMSELVES. SOMETIMES (THOUGH RARELY), HUMILITY ONLY SERVES TO HINDER PROPER SCIENTIFIC PROGRESS, HINDER PROPER MATHEMATICAL PURSUIT OF TRUTH. UNFORTUNATELY, THE WAY GPD WORKS IS TO GIVE NOTIONS OF PROPER SUCH FORM THE DEFIANT MIDDLE FINGER; WE PRESS ON ANYWAY, BECAUSE OUR HUMAN EDIFICE OF KNOWLEDGE IS WILDLY UNSOPHISTICATED, AND ITS GETTING PEOPLE KILLED.**
+  <summary style="color:magenta; font-size:150%"><b>SHOUTING DISCLAIMERS</b></summary>
 
-**AND YES, I ALMOST CERTAINLY WILL FIND ANY SUGGESTION OF A BODY POSSESSING A TIME MACHINE SCIFI-PROPER, OR A BODY POSSESSING A PERPETUAL MOTION MACHINE, OR POSSESSING ANY FORM OF FREE MOMENERGY, OR POSSESSING SOME SECRET SACRED SHAPE, THAT IS WITHOUT AT LEAST, POSSESSING DAMN GOOD CLEAR AND PRESENT COMPATABILITY WITH MODERN OBJECTIVE PHYSICS / MATHEMATICS, AS IN, ACTIVE BUY-IN FROM THOSE COMMUNITIES, MATHS, AND BASIC PHYSICS, ETC. OTHERWISE, ANY SUCH PROPOSITION IS JUST AN N=1 PHYSICAL WORLDVIEW, REALLY ONLY OF USE TO YOU AND YOURS ALONE, THOUGH NOT TO TRIVIALIZE THAT MATTER, ONLY TO SET FIRM PRECEDENT THAT I DON'T MAKE TIME FOR MEETING PETS, AND ESPECIALLY, I DO NOT MAKE TIME FOR DISPROVING ANYTHING WITH CLEAR AND DEMONSTRABLE VALUE FROM ESTABLISHMENT, ELSE. APPEALS TO CONSPIRACY, BY MY OBJECTIVE PERSPECTIVE, ONLY INDICATE UNREPLICABILITY, IMPRACTICALITY, AND IF I HAD A DOLLAR FOR EVERY TIME I HAVE CLAIMED SIMILAR CONSPIRATORIAL SENTIMENT TO MAYSELF, MAYBE INSTEAD OF FORMAL CHRONIC MENTAL ILLNESS I WOULD BE TEMPTED TO BUY YOU MY SET OF PHSYCIS BOOKS AND PAY YOU TO SHUT YOURSELF IN A ROOM FOR YEARS TO CONVINCE YOURSELF IN SOLITUDE THAT UNLESS YOU CAN ACTUALLY SHIP A PROPER-PUDDING-PROOF-PRODUCT, YOUR SHIT AIN'T HOT. THIS, IS HOW I OPERATIONALLY DEFINE MY OWN METRICS OF SUCCESS BY MY EFFORTS TO FORMULATE GPD. NIKOLA TESLA FOR EXAMPLE, DIED OBSESSED WITH TRIANGLES AND IN LOVE WITH PIDGEONS. GET SOME SLEEP.**
+**RESPECTING REASON:**
+- I LEARNED OVER TIME, THAT SOMETIMES SHOUTING IS NECESSARY, FOR OTHERWISE I MAY BE MISTAKEN FOR SOMETHING I AM EMPHATICALLY NOT: I TIRE OF POLITENESS WHEN IT COMES TO TALKING PHYSICS WITH PEOPLE LESS INTERESTED IN RESPECTING THE ESTABLISHMENT; I ESPECIALLY TIRE OF TALKING PHYSICS WITH PEOPLE MORE INTERESTED IN PRAISING THE ESTABLISHMENT; I TIRE MOST, OF TALKING TO PEOPLE WHO INSIST THAT SOME TRUTHS ARE ABSOLUTE, OTHER THAN THE FOLLOWING A PRIORI ASSERTION, BY WHICH I ADMIT AS ONE EXCEPTION: MY EXPERIENCE ALIVE RIGHT _NOW_ IS ABSOLUTELY TRULY HAPPENING, LIKEWISE YOUR EXPERIENCE RIGHT THERE RIGHT _NOW_ IS ABSOLUTELY TRULY HAPPENING, SUBJECT OF COURSE TO INCAPACITATION, BUT IN THAT CASE, RIGHT NOW HAS NO MEANING.
+- THE WORK OF ESTABLISHING GENERAL PEACE DYNAMICS MUST BE KNOWN AS EFFORT TOWARD ALLOWING FOR SYSTEMATIC INCLUSION AND RESPECT OF SAID NUMEROUS TIRESOME TOPICS, BUT THAT IS NOT NOW. I TIRE SIMPLY BECAUSE I DO NOT HAVE THE EXTRA ENERGY TO JUSTIFY CONSIDERING THINGS THAT DO NOT HAVE IMMEDIATE AND DEMONSTRABLE APPLICATION TO THE FOUNDATION BUILDING PHASE OF DEVELOPMENT.
+
+**CONCURRENT WARNING:**
+- THIS WORK IS IN MAJORITY PART TO UNIFY HUMAN KNOWLEDGE IN A RIGOROUS SENSE, AND THIS INCLUDES ACTIVE SERIOUS CONSIDERATION FOR REALMS OF HUMAN INQUIRY GENERALLY IN-PAST DEEMED UN-TOUCHABLE / NON-TOUCHABLE, LIKE BUT NOT LIMITED TO: IRRATIONALITY, BELIEF SYSTEMS, THEOLOGY, GOD, GODS, SUBJECTIVE REALITY, CONSPIRACY THEORIES, DREAMS, SUPERSTITIONS, SUPERNATURALISM, MAGIC, BEYOND-GOD, THE OTHERWISE INCONCEIVABLE / INCOMPREHENSIBLE, THE SOUL, GARDEN-GNOME SENTIENCE, MY MOTHER, YOUR MOTHER, ELSE.
+
+**PRESENTATION / SERIOUS-STUDY DISCLAIMER:**
+- THIS STANDING PRESENTATION IS UGLY, LOW-SCIENTIFIC, LOW-RIGOROUS, ELSE, BUT THIS IS BESIDE THE POINT OF RADICAL PRACTICALITY: CALL IT FUNCTIONAL CONCEPTUAL ART IF THAT SUITS YOUR WORLDVIEW NEEDS BETTER.
+- **HOWEVER,** I REFUSE BY COMPLETE AND UTTER WHOLE OF MY BEING, **TO EVER RELENT TO ACCUSATION THAT GENERAL PEACE DYNAMICS IS A META-PHYSICS, OR PSEUDO-SCIENCE, OR ANY SUCH OTHER ASSOCIATIONS WITH NON-SERIOUS WORK**. THIS NOT ONLY SERVES AS DEEPEST-INSULT TO MYSELF IN STOOPING AS SO, BUT ALSO BECAUSE I BY ASSERTION, DO IN FACT DO SCIENCE AND MATHEMATICS ACCORDING TO HIGHEST STANDARD. ACCUSATION OTHERWISE I DISMISS BY POLICY AS NARROW-MINDED EXAMIMATION MANIDESTING XENOPHOBIC TENDENCIES PERHAPS HEREBY NOW AWARE OF.
+- GENERAL PEACE DYNAMICS IS REAL PHYSICS, IT IS REAL SCIENCE, AND THE SERIOUS SOUL I IMPLORE TO TAKE IT SERIOUSLY. I RACKON SO, BECAUSE I PAINSTAKINGLY BUILT THE DAMN THING AROUND OUR UNMISTAKABLE PERVASIVE GENERAL FAILURE TO BY DEFAULT RESPECT INSTITUTIONAL, CULTURAL, AND PERSONAL SHORTCOMINGS, AND THUS THE ENTERPRISE IS DELIBERATELY BUILT _AROUND_ THOSE SHORTCOMINGS THEMSELVES.
+- SOMETIMES (THOUGH QUITE RARELY), HUMILITY SERVES TO HINDER PROPER SCIENTIFIC PROGRESS, SERVES TO HINDER PROPER MATHEMATICAL PURSUIT OF TRUTH, ELSE. UNFORTUNATELY, THE WAY GENERAL PEACE DYNAMICS WORKS IS TO SYSTEMATICALLY DISRESPECT STANDARD NOTIONS OF 'PROPER PRACTICE' IN USUAL FORM BY DEFIANT APPEAL TO PUTTING RADICAL PRACTICALITY ABOVE ALL ELSE.
+- BY STRATEGIC GAMBLE, THOSE INVOLVED THEREFORE PRESS ON ANYWAY, BECAUSE OUR HUMAN EDIFICE OF KNOWLEDGE IS WILDLY UNSOPHISTICATED, IT DESPERATELY NEEDS MECHANISMS FOR RADICAL ACCESSIBILITY, FOR SAKE OF EDUCATION, APPLICATION, CONSILIENCE.
+- THE VERY REAL PRACTICAL REASON FOR THIS APPROACH, MOTIVATED BY THE UNFORTUNATE RESULT OF NON-RADICAL PRACTICALITY, IS QUITE PLAINLY THAT A LOT MORE PEOPLE ARE SUFFERING AND DYING THAN NEED TO, AND ESPECIALLY BY VIRTUE OF OUR MODERN ENLIGHTENED TECHNOLOGICAL STANDARDS OF AFFLUENCE.
+
+**WARNING OF PERSONAL LOSS OF PATIENCE:**
+- I ALMOST CERTAINLY WILL FIND ANY OF THE FOLLOWING SUGGESTIONS INCREDIBLE AND TIRESOME (AND CERTAINLY NOT LIMITED TO): ANY PERSON OR ENTITY POSSESSING A TIME MACHINE IN BACKWARD TIME SCIFI-PROPER SENSE; ANY PERSON OR ENTITY POSSESSING A PERPETUAL MOTION MACHINE; ANY PERSON OR ENTITY POSSESSING ANY FORM OF FREE MOMENTUM / ENERGY; ANY PERSON OR ENTITY POSSESSING A SECRET SACRED GEOMETRIC SHAPE; ANY PERSON OR ENTITY POSSESING THE ABILITY OF TELEPATHY OR ASTRAL PROJECTION OR TELEKINESIS; ANY PERSON OR ENTITY CLAIMING THE ABILITY TO VISUALIZE >R3 SPACES OR SOLVE TENSOR CALCULUS EQUATIONS IN THEIR HEAD; ANY PERSON OR ENTITY CLAIMING TO HAVE THE SOLUTION TO WORLD PEACE IN FORM THAT IS FUNDAMENTALLY DIFFERENT OR UNRECOGNIZABLE TO GENERAL PEACE DYNAMICS; ANY ELSE--
+- THE ABOVE IS, AT LEAST NOT UNLESS BY EXCEPTION THAT SAID PERSON OR ENTITY IS POSSESSING DAMN FUCKING GOOD THEORETICAL / EXPERIMENTAL CLEAR-AND-PRESENT COMPATABILITY WITH MODERN OBJECTIVE PHYSICS / MATHEMATICS; AS IN, IN POSSESSION OF ACTIVE BUY-IN FROM THOSE COMMUNITIES, MATHS, BASIC PHYSICS, ETC.
+- OTHERWISE, ANY SUCH PROPOSITION IS JUST AN N=1 PHYSICAL WORLDVIEW, REALLY ONLY OF USE TO YOU AND YOURS ALONE, THOUGH NOT TO TRIVIALIZE THAT MATTER, ONLY TO SET FIRM PRECEDENT THAT BY PERSONAL POLICY I DO NOT ALLOT SPECIAL TIME FOR MEETING PETS, AND ESPECIALLY, I DO NOT ALLOT TIME FOR DISPROVING ANYTHING WITH CLEAR AND DEMONSTRABLE VALUE FROM ESTABLISHMENT, ELSE.
+- APPEALS TO CONSPIRACY AGAINST ONE'S PET, FOR NOTE AND BY MY OBJECTIVE PERSPECTIVE, ONLY INDICATE UNREPLICABILITY, IMPRACTICALITY, MALADJUSTED TEMPERAMENT, ELSE.
+- IF I HAD A DOLLAR FOR EVERY TIME I HAVE CLAIMED SIMILAR CONSPIRATORIAL OPPRESSIVE SENTIMENT TO MYSELF, MAYBE INSTEAD OF EARNING BOX OF 'CHRONIC MENTAL ILLNESS', I WOULD RATHER BE TEMPTED TO BUY YOU MY ENTIRE SET OF PHYSICS BOOKS, BUY YOU TUITION FOR AN ELECTRICAL ENGINEERING CREDENTIAL, AND FURTHER PAY YOU TO SHUT YOURSELF ALONE IN A ROOM FOR YEARS TO CONVINCE YOURSELF ON YOUR OWN TIME IN SOLITUDE THAT UNLESS YOU CAN ACTUALLY SHIP A PROPER-PUDDING-PROOF-PRODUCT, **YOUR SHIT AIN'T HOT**.
+- NO, NOBODY STOLE YOUR BRILLIANT IDEA, FOR WHEN THE IDEA IS BRILLIANT ENOUGH, PEOPLE WOULD RATHER PAY YOU TO MAKE IT REAL AS OPPOSED TO LIFT A FINGER THEMSELVES. **THIS, IS HOW I OPERATIONALLY DEFINE MY OWN PERSONAL METRICS OF SUCCESS BY MY EFFORTS TO FORMULATE GENERAL PEACE DYNAMICS TO SHIP THE WORLD PIECE COMPUTER.**
+- AND A NOTE OF DEMONSTRATIVE ASSERTION: NIKOLA TESLA FOR EXAMPLE, DID IN FACT INVENT THE AC MOTOR IN HIS HEAD, AND THAT WAS BRILLIANT. BUT THE REST OF HIS WORK WAS BY MAJORITY WILDLY IMPRACTICAL FOR HIS TIME, AND THIS IS THE INHERENT RISK OF BLEEDING EDGE INNOVATION:
+    - DON'T TAKE RADICAL PRACTICALITY SERIOUSLY?
+    - DON'T TAKE POLITICS SERIOUSLY?
+    - DON'T TAKE CUTTHROAT SOCIAL DYNAMICS SERIOUSLY?
+    - ...WELL THEN YOU PROBABLY AREN'T TAKING INVENTION SERIOUSLY. NIKOLA TESLA DID NOT GET SHUT OUT BY DEEPSTATE MALEVELANCE. HE SIMPLY PREFERED TO SPEND MORE TIME LOOKING LIKE A MASTERMIND WITH DRAMATIC LIGHTENING BOLTS WHILE PAINSTAKINGLY SUBMITTING FOR PATENTS THAT WOULD ONLY END UP ON DESKS' LIKE EINSTEIN THAT WERE BUSY EMBEZZELING TIME FOR REAL WORK. NIKOLA SET HIMSELF UP TO DIE LONELY OBSESSED WITH TRIANGLES AND IN LOVE WITH PIDGEONS (NOT OF COURSE, TO DISPARAGE TRIANGLE MAGIC AND PIDGEON-LOVE).
+
+**FINAL WARNING OF PERSONAL BELIEF IN THE ROLE OF CONCEPTUAL ART:**
+- GENERAL PEACE DYNAMICS IS FORMULATED IN A WAY THAT ULTIMATELY GENERALIZES ART AS THE SERIOUS PRACTICE OF CREATION. PHYSICS FOR EXAMPLE, IS NOT A FORM 'DOING IS AN ART', IT IS AN _ART_. DOING PROPER PHYSICS OR ENGINEERING, _IS ART_.
+- TO DISREGARD THE IDENTITITY ROLE OF CREATING BEING ART, FROM MY PERSONAL PERSPCTIVE, IS THE REASON MANY PEOPLE JUST AREN'T THAT GOOD AT THEIR CRAFT OR WORK OR CREATIVE AMBITION, DOWN EVEN TO THE NITTY GRITTY OF SLOGGING THROUGH CALCULATIONS BECAUSE ITS YOUR JOB.
+- THIS IS NOT NECESSARILY TO SCORN THOSE WHO INSIST THAT PROPOR RIGOR CANNOT BE ART (WELL AT LEAST NOT TO ATTACK THEM), RATHER, IT IS TO ASSERT MY OPERATIONAL DEFINITION OF WHAT IT MEANS TO DO SOMETHING _WELL_, AND TO DO IT IN THE CONTEXT OF GENERAL PEACE DYNAMICS.
+- THIS IS A PRINCIPLE ROOTED IN THE FUNDAMENTAL _INTERACTIVE_ BASIS OF COMMUNICTION AND CONVERSATION, FRAMED IN GENERALIZED TERMS OF SATISFYING LEAST-ACTION AND CONSERVATION PRINCIPLES.
+- AN EXAMPLE OF PHYSICS THAT FAILS TO INTEGRATE ART PROPERLY, IS THE CLASSIC CHOICE OF NON-MEMORABLE OR NON-SENSIBLE PROPORTIONALITY CONSTANT $c$ OR $k$, INSTEAD USUALLY FAVORING VANITY OF NAMING BY DISCOVERER, WHICH IS INHERENTLY INACCESSIBLE TO THOSE ATTEMPTING TO ACCESS THE WORK, BECAUSE NOBODY GIVES A SHIT ABOUT THE PERSON REALLY, THEY GIVE A SHIT ABOUT THINGS MAKING SENSE IN TERMS OF FUNCTION, FORM, AND THEIR INTERNAL REPRESENTATION OF SURROUNDING REALITY.
+- ANOTHER CASE EXAMPLE IS COMMON MANTRA THAT, 'NOBODY UNDERSTANDS QUANTUM PHYSICS', IMPLYING THAT QUANTUM PHYSICS IS INHERENTLY IMMUNE TO INTUITIVE UNDERSTANDING. THIS IS GARGAGE STATEMENT, ULTIMATELY SERVING ONLY TO MYSTICIZE BASIC PHYSICS, OR AT LEAST THE ADVANCED PRACTICE THEREOF.
+- A FINAL CASE EXAMPLE IS THAT ONE CANNOT UNDERSTAND EINSTEIN GRAVITY IN ANY MEANINGFUL SENSE WITHOUT UNDERSTANDING TENSOR CALCULUS AND DIFFERENTIAL FORMS. GARBAGE. CURVES ARE CURVES. STRETCHING AND PULLING IS STRETCHING AND PULLING. CHANCES ARE THAT GLOBAL INDIVIDUAL UNDERSTANDING OF STRAIGHT LINE MOTION IN TERMS OF CURVATURE AND MOMENERGY IN NON-RIGOROUS SENSE (ACTION MINIMIZATION RESULTING IN SOME DIFFERENTAL RELATIONAL FORM) WOULD ARGUABLY HAVE GREATER IMPACT THAN ANY CURRENTLY EXISTING CLOSED SOLUTION TO THE EINSTEIN EQUATION.
+
+**CAUTIONARY FAITH, CONTRADICTION, PARADOX MENTION:**
+- GENERAL PEACE DYNAMICS TACKLES MANY ASPECTS OF 'WELL WHAT ABOUT THIS!' BY INVOKING NOTIONS OF 'BY-DEFINITION'.
+- THIS IS FUNDAMENTALLY OPERATIONAL, AN EXPLICIT AGREEMENT THAT YES, WHATEVER THE CURRENT REPRESENTATION IS AT TIME, BY DEFINITION IT MUST RESULT IN SOME EXPLICIT FORM OF SATISFACTION OF THE VARIOUS WHATABOUTTHIS'S THAT CROP UP AND JUSTIFY THE INVOKATION.
+- THIS IS NOT HARD TO STOMACH IF ONE RECOGNIZED THE INHERENT RADICAL PRACTICALITY OF THE GENERAL PEACE DYNAMICS ENTERPRISE.
+- IF YOU DO NOT BELIEVE, AT LEAST PLACE FAITH IN THOSE SO INCLINED TO ERECT A PROPER PHYSICS OF ANYTHING.
+- IF YOU CANNOT CONCEDED TO THE OBVIOUS CONTRADICTIONS AND PARADOXICAL STANCES OF GENERAL PEACE DYNAMICS, I RECOMMEND STUDYING QUANTUM MECHANICS IF HAVE NOT ALREADY.
+- IF HAVE, AND YOU BELIEVE THIS ENTERPRISE IS DANGEROUS OR MENACING TO YOUR FRAGILE PENTHOUSE IN THE GREATER MOUNTAIN OF EPISTEMOLOGICAL TOWERS, STAY UP THERE PLEASE, AND PLEASE DO YOUR BEST TO SABOTAGE AND PLOT TO TEAR DOWN GENERAL PEACE DYNAMICS, FOR GIVEN THE ENTROPIC EXISTENCE OF THESE WORDS REPLICATING, THIS WILL ONLY SERVE TO ACCELERATE THE GENERAL EFFORT TO BUILD FIRM FOUNDATIONS.
+- AND IF YOU ARE SIMPLY FLUMMOXED OR CONFUSED OR TAKEN ABACK OR SET OFF BALANCE BY THE WALL OF APPARENT ABSURDITY GENERAL PEACE DYNAMICS IS, WELL THEN please, I invite you to contribute by conducting a scientific experiment :). By The Grandest Experiment, should you participate and incorporate the principle of universal piece computation into your usual workflows, you are predicted to significantly outperform those peers maintaining the usual status quo (and should you already be a top performer, well then perhaps you might actually make some progress on those pesky little 'standing problems / mysteries' of ours). ;) :)
 
 </details>
 
-Ok, that was a lot of shouting, all done-ish. In none-shouting words, General Peace Dynamics is technically speaking, a **uni_fying_ model of _any_thing** _NOT_ a **grand uni_fied_ theory of _every_thing**. It bears sembelence to assembler / constructor theories, though I have not had proper time to perform a deep literature review at bleeding edge. I've barely had time to make sure GPD will play nice within classical and modern limits. The point of GPD however, is to serve in a radically practical manner, meaning that by trivial case of application and 'physics doing', it must be something that admits the simpleton internal world alone. So, my strategy has been to construct GPD _within myself_, first and foremost. My primary strategy for doing so, is to insist that everything is the same, and play vacuum cleaner on as much physics, maths, and other scientific/philosophical miscellany as possible, actively treating my internal world as the superposition of a fox _and_ a hedgehog:
+Ok, wow, that really was a lot of shouting, all done for now I think.
+
+In none-shouting words, General Peace Dynamics (GPD) is technically speaking, a novel **uni**_**fying**_ **physical model for** **_any_****thing**, and it is emphatically **_NOT_** a **grand uni****_fied_** **theory of** _**every**_**thing**. It bears sembelence to assembler / constructor theories, though I have not had proper time to perform a deep literature review at bleeding edge. I've barely had time to make sure GPD will play nice within classical and modern limits. The point of GPD however, is to serve in a radically practical manner, meaning that by trivial case of application and 'physics doing', it must be something that admits the simpleton internal world alone. That said, my strategy has been to construct GPD _within myself_, first and foremost. Additionally, the central tactic for doing so, has been to insist that everything is the same, and play vacuum cleaner on as much carefully directed physics, maths, and other scientific / philosophical miscellany as possible; or by illustrative way by deliverate adultration of an ancient metaphor, I actively treat my essence of being as the superposition of a fox _and_ a hedgehog _and_ mediated by _The Wilder-ness_, core feature of GPD study and inquiry:
 
 > The Greek poet Archilochus wrote that "the fox knows many things, but the hedgehog knows one big thing."
 
-Something tells me Archilochus did not have access to modern established results in quantum physics.
+Something tells me Archilochus did not have access to modern established results in quantum physics. I think this was also long before we began using 'x' for unknown, but some suggest x came from ancient Arabic, word 'shay`' meaning 'thing', appropriated by Spanish algebers, but from a time where they apparently tended towards using complete words instead of single letter symbols... So words make a comeback in GPD, and each is technically speaking, its own piece, thus a person formulates a physics that posits a big ol' hedgehog blob of fox pieces, a mythical generator of transformations embedded in the greater Wilder-ness, that unknowable thing, Xlong before we began using 'x' for unknown, but some suggest x came from ancient Arabic, word 'shay`' meaning 'thing', appropriated by Spanish algebers, but from a time where they apparently tended towards using complete words instead of single letter symbols... So words make a comeback in GPD, and each is technically speaking, its own piece, thus a person formulates a physics that posits a big ol' hedgehog blob of fox pieces, a mythical generator of transformations embedded in the greater Wilder-ness, that unknowable thing, X, , 
 
 <details>
   <summary style="color:magenta; font-size:150%"><b>AURORA'S INTEGRATION, READABLE FORM</b></summary>
@@ -716,7 +781,7 @@ Please now, if I have not overloaded your context window, isolate and reorganize
 </details>
 
 <details>
-  <summary style="color:magenta; font-size:150%"><b>GPD : INTRO</b></summary>
+  <summary style="color:magenta; font-size:150%"><b>GPD LOOSE INTRO</b></summary>
 
 General Peace Dynamics is a nacent peace-based theory of anything, or allthings. Its goal is to provide a lens through which we can make sense of arbitrarily complex phenomena, in terms that are understandable as intuitive to the arbitrary Human being. It imposes a universal principle of the 'world piece computer', which serves to provide meaning to the persist question of 'how', areguably the most difficult and troublesome consideration that haunts modern science, mathematics, philosophy, theology---epistemology as a greater whole.
 
@@ -733,7 +798,7 @@ And as for symbols themselves, note that GPD postulates (perhaps by definition t
 </details>
 
 <details>
-  <summary style="color:magenta; font-size:150%"><b>ORIGIN STORY</b></summary>
+  <summary style="color:magenta; font-size:150%"><b>LOOSE ORIGIN STORY</b></summary>
 
 Joking with friendlies, "There is a set of figures deeply influential in my world, for each of whom I could really use a dedicated full-time therapist, or at least a spectrum of heavy sedatives. So I drink." Einstein is one such figure. When I was a little boy, watching our tiny little TV and all the brutal PBS war, weaponery, physics documentaries, plus next-generation Star Trek, I learned at a very early age that Einstein blessed our popular culture with a real wicked double-whammy $$E=\Delta mc^2$$ and $$v>\sqrt{\frac{2c}{m}}\equiv nono$$
 
@@ -748,5 +813,20 @@ Eventually I careened into electrical engineering, studying physics in my free t
 Fast forward, after many years motivated by secret notions of inventing peace and giving Einstein the middle finger, I settled into just enough knowledge to know that I do not suffer from the Dunning Kruger effect, yet I am still wildly powerful in my ability to get myself in trouble with career physics and maths practitioners. And as it turns out, I just do serious physics and maths (especially science) _differently_. In private, I generally fancy myself taking on the lessor rigorous 'good-ol-days' pen and parchment sensibility. Turns out, you can get a hellofa lot more done that way, or at least just a hellofa lot more hot water.
 
 Well, I used to resent the fact I never made it to graduate school. Around the same time I learned the power of letting go of vanity, I believe I began really learning how painfully scarce on time we are.
+
+</details>
+
+<details>
+  <summary style="color:magenta; font-size:150%"><b>SOME GRAPHICAL PIECE EXAMPLES</b></summary>
+
+![VECTOR-SEMICOLON TATTOO](images/vectorsemicolon.png)
+
+![OXI TATTOO]((images/OXItatt.png)
+
+![BREATHE TATTOO](images/breathetatt.png)
+
+![BALLSTICK DIAGRAM SURVEY COLLECTION, 1](images/ballstick1.png)
+
+![BALLSTICK DIAGRAM SURVEY COLLECTION, 2](images/ballstick2.png)
 
 </details>
