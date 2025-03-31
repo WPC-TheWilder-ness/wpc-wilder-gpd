@@ -1,7 +1,7 @@
 ---
 title: General Peace Dynamics
 draft: false
-avatar: images/gpdrepre.png
+avatar: images/GPDWILDER.png
 bio: '...an explicit peace-based grand uni*fying* physical of *any*thing.'
 
 weight: 1
